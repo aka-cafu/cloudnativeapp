@@ -1,5 +1,6 @@
 box:
 # The image that is going to be used as base image for our application
+# #push
   id: node:latest
 
 build:
